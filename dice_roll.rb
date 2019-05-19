@@ -3,7 +3,7 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll
-  puts (1...6).6times
+  puts (1...6).times6
 end
 
 roll
