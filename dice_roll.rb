@@ -4,6 +4,7 @@
 
 def roll
   1
+  rand
 end
 
 puts roll
